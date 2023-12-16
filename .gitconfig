@@ -1,0 +1,5 @@
+
+[alias]
+	gs = status
+	lg = log --topo-order --all --graph --date=local
+
